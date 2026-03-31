@@ -452,6 +452,7 @@ function sidebarTraining(): DefaultTheme.SidebarItem[] {
                 {text: 'Behinder与Viper联动', link: 'Behinder_and_Viper_collaborate'},
                 {text: 'cthun3与Viper联动', link: 'cthun3_and_viper_collaborate'},
                 {text: '手动加载stdapi', link: 'manual_load_stdapi/'},
+                {text: 'Claude Code Skill & Agent', link: 'use_viper_with_skills/'},
             ]
         },
         {

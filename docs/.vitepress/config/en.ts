@@ -421,6 +421,7 @@ function sidebarTraining(): DefaultTheme.SidebarItem[] {
                 {text: 'Behinder and Viper Collaboration', link: 'Behinder_and_Viper_collaborate'},
                 {text: 'cthun3 and Viper Collaboration', link: 'cthun3_and_viper_collaborate'},
                 {text: 'Manual Load stdapi Plugin', link: 'manual_load_stdapi/'},
+                {text: 'Claude Code Skill & Agent', link: 'use_viper_with_skills/'},
             ]
         },
         {
