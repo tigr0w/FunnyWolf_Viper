@@ -78,6 +78,10 @@ function nav(): DefaultTheme.NavItem[] {
             text: "更新日志",
             items: [
                 {
+                    text: '3.1.11 - Skill is all you need',
+                    link: '/zh/release/3_1_11_Skill_Is_All_You_Need/'
+                },
+                {
                     text: '3.1.10 - 新年快乐',
                     link: '/zh/release/3_1_10_Happy_New_Year/'
                 },
@@ -452,7 +456,7 @@ function sidebarTraining(): DefaultTheme.SidebarItem[] {
                 {text: 'Behinder与Viper联动', link: 'Behinder_and_Viper_collaborate'},
                 {text: 'cthun3与Viper联动', link: 'cthun3_and_viper_collaborate'},
                 {text: '手动加载stdapi', link: 'manual_load_stdapi/'},
-                {text: 'Claude Code Skill & Agent', link: 'use_viper_with_skills/'},
+                {text: 'Claude Code Plugin', link: 'use_viper_with_skills/'},
             ]
         },
         {

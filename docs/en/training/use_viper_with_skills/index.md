@@ -1,4 +1,4 @@
-# Operate Viper with Skills
+# Claude Code Plugin
 
 ## Install the viper-redteam Plugin
 

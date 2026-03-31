@@ -53,6 +53,10 @@ function nav(): DefaultTheme.NavItem[] {
             text: "CHANGELOG",
             items: [
                 {
+                    text: '3.1.11 - Skill is all you need',
+                    link: '/release/3_1_11_Skill_Is_All_You_Need/'
+                },
+                {
                     text: '3.1.10 - Happy New Year',
                     link: '/release/3_1_10_Happy_New_Year/'
                 },
@@ -421,7 +425,7 @@ function sidebarTraining(): DefaultTheme.SidebarItem[] {
                 {text: 'Behinder and Viper Collaboration', link: 'Behinder_and_Viper_collaborate'},
                 {text: 'cthun3 and Viper Collaboration', link: 'cthun3_and_viper_collaborate'},
                 {text: 'Manual Load stdapi Plugin', link: 'manual_load_stdapi/'},
-                {text: 'Claude Code Skill & Agent', link: 'use_viper_with_skills/'},
+                {text: 'Claude Plugin', link: 'use_viper_with_skills/'},
             ]
         },
         {

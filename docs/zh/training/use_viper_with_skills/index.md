@@ -1,4 +1,4 @@
-# 通过 skill 操作 viper
+# Claude Code Plugin
 
 ## 安装 viper-redteam plugin
 
